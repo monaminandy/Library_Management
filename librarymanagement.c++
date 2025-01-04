@@ -1,7 +1,3 @@
-//Name: Monami Nandy Roll_No: 17
-//Name: Bitisha Das Roll_No: 
-//Name: Oindrila Pramanik Roll_No:64
-
 //Header Files
 #include <iostream>
 #include <vector>
